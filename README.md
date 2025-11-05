@@ -1,6 +1,3 @@
-# peloton-strategy-case-study
-Strategic product and market analysis of Peloton with a post-pandemic growth, rebrand, and revenue model proposal. Includes SWOT, PESTEL, segmentation, financials, and go-to-market strategy.
-
 # Peloton Strategy & Market Analysis Case Study
 
 Strategic product and market analysis of Peloton focused on post-pandemic growth, customer retention, and rebranding opportunities. This project examines Peloton’s financial trajectory, competitive landscape, user behavior shifts, and proposes a hybrid product + subscription strategy to restore profitability and brand relevance.
